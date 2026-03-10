@@ -1,0 +1,26 @@
+h1 {
+    font-size: 40px;
+    color: #00b4d8; /* Warna biru neon khas gaming */
+    margin-bottom: 5px;
+    text-shadow: 2px 2px 0px #0a0a0a; /* Bayangan gelap agar teks menonjol */
+}
+
+img {
+    margin-top: 20px;
+    box-shadow: 0 10px 15px rgba(0, 180, 216, 0.2); /* Bayangan memancarkan warna biru */
+    border-radius: 20px; 
+    max-width: 100%;
+}
+
+p {
+    color: #dbdee1; /* Warna teks abu-abu terang agar nyaman dibaca */
+    line-height: 1.6;
+}
+
+h2 {
+    color: #00b4d8;
+    text-align: left;
+    margin-top: 30px;
+    border-bottom: 3px dotted #007790; /* Garis titik-titik warna biru tua */
+    display: inline-block;
+}
